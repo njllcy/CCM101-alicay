@@ -36,6 +36,4 @@ The AWS Management Console is a website where users can manage their AWS service
 - Storing and backing up company data
 - Hosting databases
 - Running e-commerce applications
-- Developing and testing applications
-- Data analytics and artificial intelligence
 
