@@ -8,4 +8,4 @@ Business requirements are important when choosing a cloud platform. A company sh
 
 Acting as a Cloud Solutions Consultant taught me that choosing a cloud provider is not only about choosing the most popular platform. I learned that the best choice depends on what the client needs. I also learned how to compare cloud services and match them with different business situations.
 
-My GitHub Cloud Computing Portfolio has improved after completing this mission. I added research about AWS, Azure, and GCP, comparison tables, client recommendations, and my Linux investigation. This mission also helped me improve my skills in Linux, cloud computing, Markdown, GitHub, and technical documentation. I now have a better understanding of how cloud platforms can be used to solve real business problems.
+My GitHub Cloud Computing Portfolio has improved after completing this mission. I added research about AWS, Azure, and GCP, comparison tables, and client recommendations. This mission also helped me improve my skills in cloud computing, Markdown, GitHub, and technical documentation. 
